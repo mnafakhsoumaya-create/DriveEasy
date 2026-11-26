@@ -1,0 +1,16 @@
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\VehiculeServiceApplication.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\exception\BusinessRuleException.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\exception\DuplicateResourceException.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\model\StatutVehicule.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\repository\VehiculeRepository.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\service\VehiculeService.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\controller\VehiculeController.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\dto\VehiculeRequestDto.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\model\CategorieVehicule.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\exception\GlobalExceptionHandler.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\model\Carburant.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\model\Vehicule.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\model\BoiteVitesse.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\exception\ResourceNotFoundException.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\dto\VehiculeResponseDto.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\vehicule-service\src\main\java\tn\sesame\driveeasy\vehicule\dto\StatutUpdateDto.java

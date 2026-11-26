@@ -1,0 +1,86 @@
+{
+  "hash": "cf9f1214",
+  "configHash": "16ebfded",
+  "lockfileHash": "eaab0d6e",
+  "browserHash": "f35f5df4",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "a322d649",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "a28cd3f1",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "623e6fcf",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "4f30c5eb",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "6a7827f6",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "255e5baa",
+      "needsInterop": false
+    },
+    "rxjs": {
+      "src": "../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "9b885eb8",
+      "needsInterop": false
+    },
+    "zone.js": {
+      "src": "../../../../../node_modules/zone.js/fesm2015/zone.js",
+      "file": "zone__js.js",
+      "fileHash": "a6f7e0bb",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "_xhr-chunk-CZNL8fHA": {
+      "file": "_xhr-chunk-CZNL8fHA.js",
+      "isDynamicEntry": false
+    },
+    "common-Cpsi-o4y": {
+      "file": "common-Cpsi-o4y.js",
+      "isDynamicEntry": false
+    },
+    "core-d--sFxkn": {
+      "file": "core-d--sFxkn.js",
+      "isDynamicEntry": false
+    },
+    "esm5-Doa4YBQt": {
+      "file": "esm5-Doa4YBQt.js",
+      "isDynamicEntry": false
+    },
+    "http-B_tUWoGp": {
+      "file": "http-B_tUWoGp.js",
+      "isDynamicEntry": false
+    },
+    "objectSpread2-7HcptuV8": {
+      "file": "objectSpread2-7HcptuV8.js",
+      "isDynamicEntry": false
+    },
+    "platform-browser-DxfvLgei": {
+      "file": "platform-browser-DxfvLgei.js",
+      "isDynamicEntry": false
+    }
+  }
+}

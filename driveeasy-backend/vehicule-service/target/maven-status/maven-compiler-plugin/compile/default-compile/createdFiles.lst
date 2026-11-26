@@ -1,0 +1,16 @@
+tn\sesame\driveeasy\vehicule\dto\VehiculeRequestDto.class
+tn\sesame\driveeasy\vehicule\VehiculeServiceApplication.class
+tn\sesame\driveeasy\vehicule\model\BoiteVitesse.class
+tn\sesame\driveeasy\vehicule\model\StatutVehicule.class
+tn\sesame\driveeasy\vehicule\exception\BusinessRuleException.class
+tn\sesame\driveeasy\vehicule\model\Vehicule.class
+tn\sesame\driveeasy\vehicule\dto\VehiculeResponseDto.class
+tn\sesame\driveeasy\vehicule\exception\ResourceNotFoundException.class
+tn\sesame\driveeasy\vehicule\dto\StatutUpdateDto.class
+tn\sesame\driveeasy\vehicule\exception\GlobalExceptionHandler.class
+tn\sesame\driveeasy\vehicule\exception\DuplicateResourceException.class
+tn\sesame\driveeasy\vehicule\controller\VehiculeController.class
+tn\sesame\driveeasy\vehicule\model\Carburant.class
+tn\sesame\driveeasy\vehicule\model\CategorieVehicule.class
+tn\sesame\driveeasy\vehicule\service\VehiculeService.class
+tn\sesame\driveeasy\vehicule\repository\VehiculeRepository.class

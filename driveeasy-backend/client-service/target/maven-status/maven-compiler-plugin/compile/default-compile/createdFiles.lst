@@ -1,0 +1,14 @@
+tn\sesame\driveeasy\client\repository\ClientRepository.class
+tn\sesame\driveeasy\client\controller\ClientController.class
+tn\sesame\driveeasy\client\exception\BusinessRuleException.class
+tn\sesame\driveeasy\client\service\ClientService.class
+tn\sesame\driveeasy\client\dto\ClientRequestDto.class
+tn\sesame\driveeasy\client\dto\ClientResponseDto.class
+tn\sesame\driveeasy\client\exception\GlobalExceptionHandler.class
+tn\sesame\driveeasy\client\dto\EligibiliteResponseDto.class
+tn\sesame\driveeasy\client\model\Client.class
+tn\sesame\driveeasy\client\dto\CategorieUpdateDto.class
+tn\sesame\driveeasy\client\ClientServiceApplication.class
+tn\sesame\driveeasy\client\exception\DuplicateResourceException.class
+tn\sesame\driveeasy\client\exception\ResourceNotFoundException.class
+tn\sesame\driveeasy\client\model\CategorieClient.class

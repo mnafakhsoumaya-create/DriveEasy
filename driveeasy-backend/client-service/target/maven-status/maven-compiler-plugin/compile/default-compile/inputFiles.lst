@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\client-service\src\main\java\tn\sesame\driveeasy\client\model\Client.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\client-service\src\main\java\tn\sesame\driveeasy\client\ClientServiceApplication.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\client-service\src\main\java\tn\sesame\driveeasy\client\service\ClientService.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\client-service\src\main\java\tn\sesame\driveeasy\client\exception\DuplicateResourceException.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\client-service\src\main\java\tn\sesame\driveeasy\client\dto\ClientRequestDto.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\client-service\src\main\java\tn\sesame\driveeasy\client\exception\ResourceNotFoundException.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\client-service\src\main\java\tn\sesame\driveeasy\client\repository\ClientRepository.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\client-service\src\main\java\tn\sesame\driveeasy\client\exception\GlobalExceptionHandler.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\client-service\src\main\java\tn\sesame\driveeasy\client\dto\CategorieUpdateDto.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\client-service\src\main\java\tn\sesame\driveeasy\client\dto\EligibiliteResponseDto.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\client-service\src\main\java\tn\sesame\driveeasy\client\dto\ClientResponseDto.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\client-service\src\main\java\tn\sesame\driveeasy\client\exception\BusinessRuleException.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\client-service\src\main\java\tn\sesame\driveeasy\client\model\CategorieClient.java
+C:\Users\MSI\Desktop\DriveEasy\driveeasy-backend\client-service\src\main\java\tn\sesame\driveeasy\client\controller\ClientController.java
